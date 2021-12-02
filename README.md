@@ -30,6 +30,7 @@ Upload or use the provided pdf file, and click twice on the HTML Canvas. `CTRL-P
 
 1. The HTML canvas ratio was preset by the React-PDF library and this resulted in uneven placement of initial annotations due to scaling and height/width differences.
 2. Faced babel / webpack errors while testing out annotpdf and pdf.js.
+3. The application will bug out if you upload a pdf or if the view moves out of the viewport.
 
 ## For Future
 
