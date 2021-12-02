@@ -8,8 +8,6 @@ A React application that allows you to upload a pdf file and annotate it with re
 
 Given a PDF file ([sample.pdf](./public/sample/sample.pdf)), create a web or mobile application that allows a user to annotate the PDF file with a red polygon resulting in what you see in [final.pdf](./public/sample/final.pdf).
 
-[See Challenge]
-
 ## Build Steps
 
 ```
